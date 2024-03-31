@@ -45,12 +45,13 @@ Boston; y el segundo archivo contiene la descripción de lo que representa cada 
 <p align="center">
   <img src="https://github.com/alejandromz2/Mechatronic-Engineering-Topics-Homework1/assets/30611516/a3ae6945-1190-4b2e-ab64-dadc5dae7003" alt="Descripción de la imagen" width="50%" height="50%">
 </p>
+
 ### Métricas de evaluación:
-MSE es: 18.923
-MAE es: -1.012
-MAPE es: -0.087
-RMSE es: 4.35
-El coeficiente de determinación es: 0.76129
+* MSE es: 18.923
+* MAE es: -1.012
+* MAPE es: -0.087
+* RMSE es: 4.35
+* El coeficiente de determinación es: 0.76129
 
 ## Pregunta 3
 El archivo datos clasificacion.csv tiene tres columnas: las dos primeras representan los dos atributos x1, x2, y la última columna representa la clase y a la cual pertenece la instancia, donde y {0, 1}. Dividir los datos en conjunto de entrenamiento y conjunto de prueba (usando el criterio 80 %-20 %). Entrenar un clasificador basado en regresión logística para clasificar los datos. Dado que la curva de decisión es no lineal, se usará bases polinomiales que incluirán combinaciones de ambos atributos hasta el sexto grado. Estos atributos se obtienen usando la función generacion bases. Además, el clasificador debe tener un término de regularización L2. Graficar los puntos y la frontera de decisión (se puede usar las funciones plot data y plot frontera). Igualmente, graficar la función de costo para verificar que converge.
