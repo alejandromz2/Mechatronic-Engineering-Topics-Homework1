@@ -36,7 +36,7 @@ Boston; y el segundo archivo contiene la descripción de lo que representa cada 
 ### Función de costo vs iteraciones
 ![image](https://github.com/alejandromz2/Mechatronic-Engineering-Topics-Homework1/assets/30611516/a3ae6945-1190-4b2e-ab64-dadc5dae7003)
 
-## Métricas de evaluación
+### Métricas de evaluación
 MSE es: 18.923
 MAE es: -1.012
 MAPE es: -0.087
@@ -45,6 +45,22 @@ El coeficiente de determinación es: 0.76129
 
 ## 1.3 Pregunta 3.
 El archivo datos clasificacion.csv tiene tres columnas: las dos primeras representan los dos atributos x1, x2, y la última columna representa la clase y a la cual pertenece la instancia, donde y {0, 1}. Dividir los datos en conjunto de entrenamiento y conjunto de prueba (usando el criterio 80 %-20 %). Entrenar un clasificador basado en regresión logística para clasificar los datos. Dado que la curva de decisión es no lineal, se usará bases polinomiales que incluirán combinaciones de ambos atributos hasta el sexto grado. Estos atributos se obtienen usando la función generacion bases. Además, el clasificador debe tener un término de regularización L2. Graficar los puntos y la frontera de decisión (se puede usar las funciones plot data y plot frontera). Igualmente, graficar la función de costo para verificar que converge.
+
+### Gráfico de datos normalizados
+![image](https://github.com/alejandromz2/Mechatronic-Engineering-Topics-Homework1/assets/30611516/8a6043d1-e59d-4b55-8dc2-ce2ee69f9b9c)
+
+### Evolución de función de costo
+![image](https://github.com/alejandromz2/Mechatronic-Engineering-Topics-Homework1/assets/30611516/43000a2a-ac29-45cf-a9fc-722dd6bfba91)
+
+### Clasificación de datos clase 1 y clase 0
+![image](https://github.com/alejandromz2/Mechatronic-Engineering-Topics-Homework1/assets/30611516/239022bf-b337-4cfb-a746-561509c37244)
+
+### Testeo del modelo (Gráficos normalizados)
+![image](https://github.com/alejandromz2/Mechatronic-Engineering-Topics-Homework1/assets/30611516/0f1559e5-66f0-45c2-84d4-63cd8ee1547f)
+
+### Testeo del modelo (Aplicación del clasificador a los datos normalizados)
+![image](https://github.com/alejandromz2/Mechatronic-Engineering-Topics-Homework1/assets/30611516/26d9d56e-9d34-4a3f-8061-552005691d85)
+
 
 # Instalación
 Descarga estos archivos como un zip usando el boton verde, o clona el repositorio en tu máquina usando Git. 
