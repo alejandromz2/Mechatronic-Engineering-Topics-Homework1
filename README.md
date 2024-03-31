@@ -24,11 +24,11 @@ Lectura de datos: Se leeran los datos para el entrenamiento y el testeo del ejer
 ## Función real (yr) vs Función predicha (ypred):
 ![image](https://github.com/alejandromz2/Mechatronic-Engineering-Topics-Homework1/assets/30611516/4bf2889a-9cea-414e-9431-4a8f8b95749c)
 
-## Optimización de parámetris usando Descenso del Gradiente:
-# Función de costo VS #Iteraciones
+# Optimización de parámetris usando Descenso del Gradiente:
+## Función de costo VS #Iteraciones
 ![image](https://github.com/alejandromz2/Mechatronic-Engineering-Topics-Homework1/assets/30611516/00291683-eaf0-49a1-b22c-592ffeee62b9)
 
-# Función real (yr) vs Función predicha (ypred) (Descenso del Gradiente):
+## Función real (yr) vs Función predicha (ypred) (Descenso del Gradiente):
 ![image](https://github.com/alejandromz2/Mechatronic-Engineering-Topics-Homework1/assets/30611516/55e787a2-8378-4006-bce5-54e8377f0d30)
 
 
