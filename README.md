@@ -7,7 +7,8 @@ En este portafolio se compartirá la resolución de una tarea del curso de Tópi
 
 
 
-# Autor - **Alejandro Muñoz**
+# Autor
+- **Alejandro Muñoz**
 
 * [LinkedIn](https://www.linkedin.com/in/alejandromz2/)
 
