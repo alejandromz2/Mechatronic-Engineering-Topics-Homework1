@@ -25,19 +25,26 @@ Lectura de datos: Se leeran los datos para el entrenamiento y el testeo del ejer
   <img src="https://github.com/alejandromz2/Mechatronic-Engineering-Topics-Homework1/assets/30611516/4bf2889a-9cea-414e-9431-4a8f8b95749c" alt="Descripción de la imagen" width="50%" height="50%">
 </p>
 
-### Optimización de parámetris usando Descenso del Gradiente:
+### Optimización de parámetros usando Descenso del Gradiente:
 #### Gráfico de la función de costo vs el número de iteraciones:
-![image](https://github.com/alejandromz2/Mechatronic-Engineering-Topics-Homework1/assets/30611516/00291683-eaf0-49a1-b22c-592ffeee62b9)
 
-#### Gráfico de la función real vs la función resultante de la predicción (Descenso del Gradiente):
-![image](https://github.com/alejandromz2/Mechatronic-Engineering-Topics-Homework1/assets/30611516/55e787a2-8378-4006-bce5-54e8377f0d30)
+<p align="center">
+  <img src="https://github.com/alejandromz2/Mechatronic-Engineering-Topics-Homework1/assets/30611516/00291683-eaf0-49a1-b22c-592ffeee62b9" alt="Descripción de la imagen" width="50%" height="50%">
+</p>
+
+#### Gráfico de la función real vs la función resultante de la predicción:
+
+<p align="center">
+  <img src="https://github.com/alejandromz2/Mechatronic-Engineering-Topics-Homework1/assets/30611516/55e787a2-8378-4006-bce5-54e8377f0d30" alt="Descripción de la imagen" width="50%" height="50%">
+</p>
 
 ## Pregunta 2
 Descargar los archivos housing.data y housing.names del repositorio UCI Machine Learning Repository. El primer archivo contiene varios atributos relacionados con el precio de casas en
 Boston; y el segundo archivo contiene la descripción de lo que representa cada columna. Los datos deben ser divididos de manera aleatoria en un 80 % para entrenamiento y un 20 % para prueba, aproximadamente. Usar regresión lineal (multivariable) para encontrar el modelo de predicción, visualizando el comportamiento de la función de costo. Utilizar el conjunto de prueba generado, para validar el funcionamiento del modelo, usando alguna métrica.
 ### Gráfico de la función de costo vs el número de iteraciones:
-![image](https://github.com/alejandromz2/Mechatronic-Engineering-Topics-Homework1/assets/30611516/a3ae6945-1190-4b2e-ab64-dadc5dae7003)
-
+<p align="center">
+  <img src="https://github.com/alejandromz2/Mechatronic-Engineering-Topics-Homework1/assets/30611516/a3ae6945-1190-4b2e-ab64-dadc5dae7003" alt="Descripción de la imagen" width="50%" height="50%">
+</p>
 ### Métricas de evaluación:
 MSE es: 18.923
 MAE es: -1.012
