@@ -81,6 +81,23 @@ El archivo datos clasificacion.csv tiene tres columnas: las dos primeras represe
   <img src="https://github.com/alejandromz2/Mechatronic-Engineering-Topics-Homework1/assets/30611516/26d9d56e-9d34-4a3f-8061-552005691d85" alt="Descripción de la imagen" width="50%" height="50%">
 </p>
 
+## Pregunta 4
+Dados un conjunto de atributos relacionados con el género, la edad, condiciones como asma, hipertensión, etc. se desea predecir si una persona a quien se le detecta COVID-19 ingresará a cuidados intensivos (UCI). Se utilizará los datos llamados covid train.csv y covid test.csv (para entrenamiento y prueba, respectivamente), que son datasets reducidos del dataset completo que se encuentra aquí. Utilizando regresión logística, entrenar un sistema que detecte, en la medida de lo posible, el ingreso a UCI dados los atributos de entrada. Una vez que se tenga el sistema entrenado, calcular algunas métricas para evaluar el desempeño del sistema, e indicar si existe overfitting (sobreajuste) o underfitting (subajuste). 
+**Lectura de datos y Normalización:** Cargamos los modelos de los datos de entrenamiento y testeo usando la función de numpy np.loadtxt() y colocamos el delimiter para que esta sepa qué los datos se encuentran separados por comas.
+
+### Evolución de parámetros usando gradiente descendiente:
+
+<p align="center">
+  <img src="https://github.com/alejandromz2/Mechatronic-Engineering-Topics-Homework1/assets/30611516/a1f66ecb-83f1-4204-a895-5fd6ef76138c" alt="Descripción de la imagen" width="50%" height="50%">
+</p>
+
+### Cálculando el MSE del entrenamiento y del testeo:
+* MSE del testeo es: 0.24928232
+* MSE del entrenamienti es: 0.24928232
+
+### Comprobación de la exactitud entre la predicción y el valor real:
+* Exactitud del modelo: 52.679%
+* Exactitud del entrenamiento: 52.678%
 
 
 ## Instalación
