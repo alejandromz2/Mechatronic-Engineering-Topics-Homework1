@@ -1,9 +1,9 @@
 # Mechatronic-Engineering-Topics-Homework1
-Resolución de diferentes problemas de Machine Learning utilizando Python y Matlab
+Resolución de diferentes problemas de Machine Learning utilizando Python
 
 # Mechatronic-Engineering-Topics-Homework1
 
-En este portafolio se compartirá la resolución de una tarea del curso de Tópicos de Ingeniería Mecatrónica, la cual fue resuelta tanto en Matlab como en Python. Los archivos de Python tienen formato .ipynb por lo que se necesita Python y Jupyter Notebook para poder ejecutarlos.
+En este portafolio se compartirá la resolución de una tarea del curso de Tópicos de Ingeniería Mecatrónica, la cual fue resuelta usando Python. Los archivos de Python tienen formato .ipynb por lo que se necesita Python y Jupyter Notebook para poder ejecutarlos.
 
 
 
@@ -14,9 +14,9 @@ En este portafolio se compartirá la resolución de una tarea del curso de Tópi
 
 # Descripción de la tarea
 
-El trabajo esta dividido en 4 preguntas, cada pregunta fue respondida tanto con Python como con Matlab
+El trabajo esta dividido en 4 preguntas, cada pregunta fue respondida usando Python y Jupyter Notebook 
 
-Pregunta 1. 
+**Pregunta 1.** 
 Considerar los datos que se brindan en el archivo datos regresion train.csv, donde la primera columna corresponde a los atributos, y la segunda columna a los valores deseados. Desarrollar un modelo de regresión que se ajuste a los datos. Mostrar la función de costo en función del número de iteraciones. Evaluar el desempeño del modelo usando los datos de datos_regresion_test.csv, a través del MSE. Dado que es un modelo de una sola variable, graficar, además, los datos reales junto con los datos que se predice.
 Lectura de datos: Se leeran los datos para el entrenamiento y el testeo del ejercicio 1. En este modelo no consideramos necesario normalizar nuestros datos.
 
