@@ -7,12 +7,12 @@ En este portafolio se compartirá la resolución de una tarea del curso de Tópi
 
 
 
-# Autor
+## Autor
 - **Alejandro Muñoz**
 
 * [LinkedIn](https://www.linkedin.com/in/alejandromz2/)
 
-# Descripción de la tarea
+## Descripción de la tarea
 
 El trabajo está dividido en 4 preguntas, cada pregunta fue respondida usando Python y Jupyter Notebook.
 
@@ -71,9 +71,9 @@ El archivo datos clasificacion.csv tiene tres columnas: las dos primeras represe
 ![image](https://github.com/alejandromz2/Mechatronic-Engineering-Topics-Homework1/assets/30611516/26d9d56e-9d34-4a3f-8061-552005691d85)
 
 
-# Instalación
+## Instalación
 Descarga estos archivos como un zip usando el boton verde, o clona el repositorio en tu máquina usando Git. 
 Los programas tienen el formato .ipynb y necesitan Jupyter Notebook y Python para ser ejecutados.
 
-# Información Adicional
+## Información Adicional
 Si tienes dudas sobre algún tema en especifico referente a este laboratorio escribeme a alejandrozevallos.218@gmail.com. 
