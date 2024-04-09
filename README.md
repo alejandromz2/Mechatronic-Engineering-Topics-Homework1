@@ -1,9 +1,6 @@
 # Mechatronic Engineering Application Topics
-Resolución de diferentes problemas de Machine Learning utilizando Python
 
-# Mechatronic Engineering Application Topics
-
-En este portafolio se compartirá la resolución de una tarea del curso de Tópicos de Ingeniería Mecatrónica, la cual fue resuelta usando Python. Los archivos de Python tienen formato .ipynb por lo que se necesita Python y Jupyter Notebook para poder ejecutarlos.
+En este portafolio se compartirá la resolución de unos casos de pruebas del curso de Tópicos de Ingeniería Mecatrónica, la cual fue resuelta usando Python. Los archivos de Python tienen formato .ipynb por lo que se necesita Python y Jupyter Notebook para poder ejecutarlos.
 
 
 
